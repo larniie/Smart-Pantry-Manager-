@@ -2,7 +2,7 @@
 
 A Java Android starter application for tracking pantry quantities and showing recipes only when **every required ingredient is present in a sufficient amount**. The starter seeds 18 recipes on first database creation, supports pantry CRUD, stores user data locally with SQLite, and contains a separate recipe-detail and settings screen.
 
-> **Coursework note:** this is a runnable project draft, not a completed assessment submission. Run it in Android Studio, inspect and understand the code, test it on an emulator/device, and make your own real GitHub commits. The report still needs your actual screenshots, repository URL, personal reflection, signed declaration, and narrated demo video.
+
 
 ## Technology choices
 
