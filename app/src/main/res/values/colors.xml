@@ -1,0 +1,11 @@
+<resources>
+    <color name="pantry_green_dark">#164A35</color>
+    <color name="pantry_green">#287A54</color>
+    <color name="pantry_green_light">#E8F2EB</color>
+    <color name="pantry_cream">#F8FAF7</color>
+    <color name="pantry_ink">#203128</color>
+    <color name="pantry_muted">#66746B</color>
+    <color name="pantry_border">#DDE7DF</color>
+    <color name="pantry_red">#A33E36</color>
+    <color name="pantry_white">#FFFFFF</color>
+</resources>
